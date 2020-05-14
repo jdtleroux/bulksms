@@ -1,3 +1,3 @@
 {
-  "response": "<gviRequestResult><resultCode>0</resultCode><resultText>Process Successful</resultText></gviRequestResult>"
+  "response": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><gviRequestResult><resultCode>0</resultCode><resultText>Process Successful</resultText></gviRequestResult>"
 }
